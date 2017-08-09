@@ -1,13 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lucas Berbesson's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+Full stack dev web & data science
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">lucas.berbesson@fabdev.fr</a>
 </div>
 
 
